@@ -5,7 +5,7 @@
     <hr>
      
     <label for="Name"><b>Enter Name</b></label>
-    <input type="text" placeholder="Enter Name" name="Name" id="Name" required>
+    <input type="text" placeholder="Enter  the Name" name="Name" id="Name" required>
     <br>
     
     <label for="mobile"><b>Enter mobile</b></label>
@@ -31,7 +31,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> Thankyou God Siva, Happy Learning </h1>
+   <h1> Thankyou God Siva, </h1>
 
   
 </form>
