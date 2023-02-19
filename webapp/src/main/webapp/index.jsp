@@ -36,7 +36,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> Thankyou God Siva, </h1>
+   <h1> Thankyou  Vimala God Siva, </h1>
 
   
 /form>
