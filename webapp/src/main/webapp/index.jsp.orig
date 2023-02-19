@@ -12,12 +12,13 @@
     <input type="text" placeholder="Enter moible number" name="mobile" id="mobile" required>
     <br>
 
+<<<<<<< HEAD
     <label for="email"><b>Enter Email</b></label>
     <input type="text" placeholder="Enter Email ID" name="email" id="email" required>
-
+=======
     <label for="email"><b>Enter Email ID</b></label>
     <input type="text" placeholder="Enter Email" name="email" id="email" required>
-
+>>>>>>> 4cb03d4c62995d6fbbadc9d95c336f5d85131734
     <br>
 
     <label for="psw"><b>Password</b></label>
@@ -38,4 +39,4 @@
    <h1> Thankyou God Siva, </h1>
 
   
-/form>
+</form>
