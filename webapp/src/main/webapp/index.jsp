@@ -16,12 +16,8 @@
     <input type="text" placeholder="Enter Email ID" name="email" id="email" required>
 <br>
 <br>
-    <label for="email"><b>Enter Email ID</b></label>
-    <input type="text" placeholder="Enter Email" name="email" id="email" required>
-
-    <br>
-    <br>
-    <label for="psw"><b>Password</b></label>
+    
+        <label for="psw"><b>Password</b></label>
     <input type="password" placeholder="Enter Password" name="psw" id="psw" required>
     <br>
     <br>
@@ -36,7 +32,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> Thankyou  Vimala God done with Docker automation Siva, </h1>
+   <h1> Thankyou  Vimala God done with Docker automatioSiva, </h1>
 
   
 /form>
